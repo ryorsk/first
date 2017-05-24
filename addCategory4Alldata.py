@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-#教師信号にカテゴリを追加
 
 from os import path
 import numpy
